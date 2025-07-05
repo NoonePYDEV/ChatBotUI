@@ -316,7 +316,7 @@ def ConfigTheme() -> None:
     def CloseThemeWindow() -> None:
         global ChoosenTheme, CurrentH, CurrentW
 
-        CurrentW = 62
+        CurrentW = 65
         CurrentH = 50
         ChoosenTheme = (None, None)
 
