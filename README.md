@@ -34,7 +34,7 @@ Une interface graphique moderne permettant de discuter avec une Intelligence Art
 - Méthode 1 :
    ```bash
    git clone https://github.com/NoonePYDEV/ChatBotUI.git
-   cd ChatBotUI-main
+   cd ChatBotUI
    start Install.bat
 
 - Méthode 2 :
