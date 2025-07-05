@@ -1,0 +1,178 @@
+{
+  "Settings": {
+    "Theme": "cyberpunk",
+    "ThemeList": {
+      "default": {
+        "Mode": "dark",
+        "First": "#1b1b1b",
+        "Second": "#171717",
+        "Border": "#545454",
+        "Loading": "#ff0000",
+        "User": {
+          "Msg": "#545454",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#3b3a3a",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#545454",
+          "Hover": "#464647"
+        }
+      },
+      "ph": {
+        "Mode": "dark",
+        "First": "#000000",
+        "Second": "#171717",
+        "Border": "#545454",
+        "Loading": "#ff811a",
+        "User": {
+          "Msg": "#ff811a",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#000000",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#545454",
+          "Hover": "#464647"
+        }
+      },
+      "python": {
+        "Mode": "light",
+        "First": "#18587d",
+        "Second": "#21719f",
+        "Border": "#ffcc00",
+        "Loading": "#ffcc00",
+        "User": {
+          "Msg": "#25698f",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#1c4d69",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#c4ad16",
+          "Hover": "#968513"
+        }
+      },
+      "hacker": {
+        "Mode": "dark",
+        "First": "#0a0a0a",
+        "Second": "#121212",
+        "Border": "#00ff00",
+        "Loading": "#00ff00",
+        "User": {
+          "Msg": "#1f1f1f",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#000000",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#1c1c1c",
+          "Hover": "#2a2a2a"
+        }
+      },
+      "ocean": {
+        "Mode": "light",
+        "First": "#0f2c3f",
+        "Second": "#143f56",
+        "Border": "#1c91c0",
+        "Loading": "#1c91c0",
+        "User": {
+          "Msg": "#215f7a",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#1a4d66",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#1c3f56",
+          "Hover": "#245b77"
+        }
+      },
+      "sunset": {
+        "Mode": "dark",
+        "First": "#2c1b12",
+        "Second": "#402218",
+        "Border": "#c44536",
+        "Loading": "#ff3300",
+        "User": {
+          "Msg": "#5c2e1a",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#2b170f",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#6a2f1f",
+          "Hover": "#8a3c2a"
+        }
+      },
+      "forest": {
+        "Mode": "dark",
+        "First": "#1e2d1e",
+        "Second": "#2b3d2b",
+        "Border": "#4caf50",
+        "Loading": "#4caf50",
+        "User": {
+          "Msg": "#365c36",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#2d4d2d",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#3c603c",
+          "Hover": "#4f7a4f"
+        }
+      },
+      "infrared": {
+        "Mode": "dark",
+        "First": "#1a0000",
+        "Second": "#330000",
+        "Border": "#ff1a1a",
+        "Loading": "#ff0000",
+        "User": {
+          "Msg": "#4d0000",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#260000",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#590000",
+          "Hover": "#800000"
+        }
+      },
+      "cyberpunk": {
+        "Mode": "dark",
+        "First": "#0f0f1a",
+        "Second": "#1a1a2e",
+        "Border": "#ff00ff",
+        "Loading": "#00ffff",
+        "User": {
+          "Msg": "#6f007d",
+          "TextColor": "#ffffff"
+        },
+        "AI": {
+          "Msg": "#4a0c52",
+          "TextColor": "#ffffff"
+        },
+        "Button": {
+          "Color": "#33004d",
+          "Hover": "#4d0073"
+        }
+      }
+    }
+  }
+}

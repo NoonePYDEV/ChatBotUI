@@ -1,0 +1,5 @@
+pillow
+customtkinter
+requests
+datetime
+pyperclip
